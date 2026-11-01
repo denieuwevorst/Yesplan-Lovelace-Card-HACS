@@ -228,7 +228,7 @@ class YesplanCard extends HTMLElement {
   static getStubConfig() {
     return {
       type: "custom:yesplan-card",
-      title: "Yesplan vandaag",
+      title: "Yesplan",
       range: "today",
     };
   }
